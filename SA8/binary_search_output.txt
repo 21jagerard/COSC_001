@@ -1,0 +1,24 @@
+/usr/local/bin/python3.9 /Users/annamikhailova/PycharmProjects/COSC_001/SA8/binary_search.py
+How many items in the list? 24
+The list: [4, 33, 116, 124, 129, 129, 156, 204, 250, 327, 402, 455, 472, 492, 526, 564, 581, 675, 770, 772, 823, 866, 872, 907]
+What value to search for? ('?' to see the list, 'q' to quit): 4
+4 found at index 0
+What value to search for? ('?' to see the list, 'q' to quit): 33
+33 found at index 1
+What value to search for? ('?' to see the list, 'q' to quit): 124
+124 found at index 3
+What value to search for? ('?' to see the list, 'q' to quit): 2
+2 not found
+What value to search for? ('?' to see the list, 'q' to quit): 581
+581 found at index 16
+What value to search for? ('?' to see the list, 'q' to quit): ?
+The list: [4, 33, 116, 124, 129, 129, 156, 204, 250, 327, 402, 455, 472, 492, 526, 564, 581, 675, 770, 772, 823, 866, 872, 907]
+What value to search for? ('?' to see the list, 'q' to quit): 1000
+1000 not found
+What value to search for? ('?' to see the list, 'q' to quit): 234
+234 not found
+What value to search for? ('?' to see the list, 'q' to quit): 472
+472 found at index 12
+What value to search for? ('?' to see the list, 'q' to quit): 204
+204 found at index 7
+What value to search for? ('?' to see the list, 'q' to quit):
